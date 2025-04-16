@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mwaura Bryan</h1>
+<h1 align="center">Hi 👋, I'm  Bryan</h1>
 <h3 align="center">Full-stack dev exploring Web3, AI, and building cool, useful things</h3>
 
 - 🌱 Learning **TypeScript** and diving deeper into full-stack tools  
